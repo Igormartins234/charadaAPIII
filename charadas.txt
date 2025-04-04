@@ -1,0 +1,12 @@
+charadas = [
+    {'id': 1, 'pergunta': 'O que é, o que é? Cai em pé e corre deitado.', 'resposta': 'Chuva'},
+    {'id': 2, 'pergunta': 'O que é, o que é? Tem cabeça, tem dente, tem barba, não é gente e fala como a gente.', 'resposta': 'Alho'},
+    {'id': 3, 'pergunta': 'O que é, o que é? Quanto mais se tira, maior fica.', 'resposta': 'Buraco'},
+    {'id': 4, 'pergunta': 'O que é, o que é? Feito para andar e não anda.', 'resposta': 'Rua.'},
+    {'id': 5, 'pergunta': ' O que é, o que é? Dá muitas voltas e não sai do lugar.', 'resposta': 'Relógio'},
+    {'id': 6, 'pergunta': 'O que é, o que é? Tem 5 dedos, mas não tem unha', 'resposta': 'Luva'},
+    {'id': 7, 'pergunta': '. O que é, o que é? Pode passar diante do sol sem fazer sombra.', 'resposta': 'Vento'},
+    {'id': 8, 'pergunta': 'O que é, o que é? Nasce a socos e morre a facadas.', 'resposta': 'Pão'},
+    {'id': 9, 'pergunta': 'O que é, o que é? Subindo o sol vai se encurtando, descendo o sol vai se alongando.', 'resposta': 'Sombra'},
+    {'id': 10, 'pergunta': '  O que é, o que é? Quanto maior menos se vê.', 'resposta': 'Escuridão'}
+]
